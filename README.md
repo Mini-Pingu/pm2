@@ -10,5 +10,3 @@
 
 具體可參考 [toyProject_strapi](https://github.com/Mini-Pingu/toyProject_strapi) 裏的 PM2 環節
 
-
-
